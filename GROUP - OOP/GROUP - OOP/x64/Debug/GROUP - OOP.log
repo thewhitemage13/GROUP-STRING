@@ -1,0 +1,27 @@
+﻿  Date.cpp
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\Student.h(5,1): warning C4635: Комментарий XML-документа  применен к "Student": неправильно сформированный XML: Следующие теги не закрыты: summary, summary.
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\Student.h(5,1): warning C4635: 
+  (компиляция исходного файла "Date.cpp")
+  
+  Fraction.cpp
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\Student.h(5,1): warning C4635: Комментарий XML-документа  применен к "Student": неправильно сформированный XML: Следующие теги не закрыты: summary, summary.
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\Student.h(5,1): warning C4635: 
+  (компиляция исходного файла "Fraction.cpp")
+  
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\Fraction.cpp(70,17): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\Fraction.cpp(84,42): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  GROUP - OOP.cpp
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\Student.h(5,1): warning C4635: Комментарий XML-документа  применен к "Student": неправильно сформированный XML: Следующие теги не закрыты: summary, summary.
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\Student.h(5,1): warning C4635: 
+  (компиляция исходного файла "GROUP%20-%20OOP.cpp")
+  
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\GROUP - OOP.cpp(41,21): warning C4244: +=: преобразование "__int64" в "int", возможна потеря данных
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\GROUP - OOP.cpp(42,22): warning C4244: +=: преобразование "__int64" в "int", возможна потеря данных
+  Создание кода...
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\Fraction.cpp(102): warning C4717: operator<=: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\Fraction.cpp(97): warning C4717: operator>: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\Fraction.cpp(112): warning C4717: operator!=: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\Fraction.cpp(107): warning C4717: operator>=: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\Fraction.cpp(92): warning C4717: operator<: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\Fraction.cpp(117): warning C4717: operator==: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+  GROUP - OOP.vcxproj -> D:\C++\C++ OOP\GROUP - OOP\x64\Debug\GROUP - OOP.exe
